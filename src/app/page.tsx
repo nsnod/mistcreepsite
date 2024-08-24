@@ -7,11 +7,24 @@ function App() {
       <h1 className="title">mistcreep</h1>
       
       <div className="socialIcons">
-        <div className="icon">▶️</div>
-        <div className="icon">☁️</div>
-        <div className="icon">📶</div>
-        <div className="icon">📱</div>
-        <div className="icon">🎵</div>
+        <a href="https://www.spotify.com" target="_blank" rel="noopener noreferrer">
+          <img className="icon" src="spotify.png" alt="Spotify" />
+        </a>
+        <a href="https://www.soundcloud.com" target="_blank" rel="noopener noreferrer">
+          <img className="icon" src="soundcloud.png" alt="SoundCloud" />
+        </a>
+        <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+          <img className="icon" src="insta.png" alt="Instagram" />
+        </a>
+        <a href="https://www.youtube.com" target="_blank" rel="noopener noreferrer">
+          <img className="icon" src="youtube.png" alt="YouTube" />
+        </a>
+        <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
+          <img className="icon" src="linkedin.png" alt="LinkedIn" />
+        </a>
+        <a href="https://www.tiktok.com" target="_blank" rel="noopener noreferrer">
+          <img className="icon" src="tiktok.png" alt="TikTok" />
+        </a>
       </div>
       
       <div className="eyeContainer">
@@ -42,7 +55,11 @@ function App() {
       <p className="caption">thank you for letting me look into your eyes</p>
       <p className="caption">thank you for letting me look into your eyes</p>
       <p className="caption">thank you for letting me look into your eyes</p>
-      
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+
+
       <div className="headImage">
         <img src="head.png" alt="head"/>
       </div>
