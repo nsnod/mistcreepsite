@@ -15,7 +15,7 @@ function App() {
       </div>
       
       <div className="eyeContainer">
-        <img src="eye.png" alt="eye"/>
+        <img src="eyee.png" alt="eye"/>
       </div>
       
       <p className="caption">thank you for letting me look into your eyes...</p>
