@@ -1,0 +1,82 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.title {
+  font-size: 5vw; 
+  width: 100%;
+  text-align: center;
+}
+
+.socialIcons {
+  display: flex;
+  justify-content: center;
+  gap: 2vw; 
+  margin-bottom: 2rem;
+  width: 100%;
+  font-size: 3vw; 
+}
+
+.eyeContainer {
+  width: 70vw; 
+  margin: 2vw 0;
+}
+
+.eyeContainer img {
+  width: 100%;
+  height: auto;
+}
+
+.caption {
+  font-size: 2vw; 
+  margin: 1rem 0;
+  width: 100%;
+}
+
+.headImage {
+  width: 100vw;
+  position: fixed;
+  bottom: 0; 
+  height: auto;
+}
+
+.headImage img {
+  position: relative;
+  display: table;
+  margin: auto;
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 6vw; 
+  }
+
+  .socialIcons {
+    font-size: 4vw;
+    gap: 3vw;
+  }
+
+  .eyeContainer {
+    width: 70vw;
+  }
+
+  .caption {
+    font-size: 3vw;
+  }
+}
