@@ -18,30 +18,30 @@ function App() {
         <img src="eyee.png" alt="eye"/>
       </div>
       
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
-      <p className="caption">thank you for letting me look into your eyes...</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
+      <p className="caption">thank you for letting me look into your eyes</p>
       
       <div className="headImage">
         <img src="head.png" alt="head"/>
