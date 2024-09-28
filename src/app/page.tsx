@@ -19,7 +19,7 @@ function App() {
         <a href="https://www.youtube.com/@mistcreeep" target="_blank" rel="noopener noreferrer">
           <img className="icon" src="youtube.png" alt="YouTube" />
         </a>
-        <a href="https://www.linkedin.com/in/mist-creep-258058325/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/mist-creep-0ab145330/" target="_blank" rel="noopener noreferrer">
           <img className="icon" src="linkedin.png" alt="LinkedIn" />
         </a>
         <a href="https://www.tiktok.com/@mistcreep" target="_blank" rel="noopener noreferrer">
