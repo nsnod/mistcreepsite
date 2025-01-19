@@ -8,6 +8,13 @@ html, body {
   flex-direction: column;
 }
 
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('../../public/fonts/MinecraftRegular-Bmg3.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .container {
   display: flex;
   flex-direction: column;
@@ -20,6 +27,7 @@ html, body {
   font-size: 5vw; 
   width: 100%;
   text-align: center;
+  font-family: 'MyCustomFont', sans-serif;
 }
 
 .socialIcons {
@@ -31,7 +39,7 @@ html, body {
 }
 
 .socialIcons .icon {
-  width: 9vw; 
+  width: 12vw; 
   height: auto;
 }
 
@@ -54,6 +62,7 @@ html, body {
   font-size: 2vw; 
   margin: 1rem 0;
   width: 100%;
+  font-family: 'MyCustomFont', sans-serif;
 }
 
 .headImage {
@@ -81,13 +90,13 @@ html, body {
     font-size: 6vw; 
   }
 
-  .socialIcons {
+  /* .socialIcons {
     gap: 3vw;
   }
 
   .socialIcons .icon {
     width: 7vw;
-  }
+  } */
 
   .eyeContainer {
     width: 70vw;
